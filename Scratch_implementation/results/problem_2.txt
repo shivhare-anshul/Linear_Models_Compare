@@ -1,0 +1,2 @@
+One vs Rest, 3 class regression
+0.80, 1.00
